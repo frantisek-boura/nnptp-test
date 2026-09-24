@@ -1,1 +1,1 @@
-na vetvi "master"
+na vetvi "master", "dev"
